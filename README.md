@@ -1,7 +1,8 @@
 # game_of_life
-java programming implementing John Conway's Game of Life
 
 ## Description
+
+java programming implementing John Conway's Game of Life
 
 ## Goals
 
